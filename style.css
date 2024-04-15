@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(215, 177, 251);
+}
+.nota{
+  border: solid 0.1em gray;
+  background-color: antiquewhite;
+  width: 200px;
+  height: 200px;
+  padding: 0.5em;
+}
